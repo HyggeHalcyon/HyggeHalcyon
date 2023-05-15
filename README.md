@@ -4,7 +4,7 @@
 <h1 align="center">Hej, Raz Heter Jag!</h1>
 <h3 align="center">Undergraduate Student and CTF Player.</h3>   
    
-   I enjoy Low level analysis, I'm currently exploring the various difference on how operating systems and programming languanges interact with the kernel and CPUs. come and checkout my [gitbook](https://hyggehalcyon.gitbook.io/page/whoami/about-me) to get know me more where i record my CTF and learning journey
+   I enjoy Low level analysis, I'm currently exploring the various difference on how operating systems and programming languanges interact with the kernel and CPUs. come and checkout my [GitBook Website](https://hyggehalcyon.gitbook.io/page/whoami/about-me) to get know more of me. There I record my CTF and learning journey.
    
 * 🧑‍🎓 I’m currently learning **Python and Rust**
 * 🚩 Actively playing CTF as **Halcyon** specilize in **Pwn and Rev**
