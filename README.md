@@ -1,12 +1,9 @@
----
-[![](https://visitcount.itsvg.in/api?id=hyggehalcyon&icon=0&color=1)](https://visitcount.itsvg.in)   
-   
 <h1 align="center">Hej, Raz Heter Jag!</h1>
 <h3 align="center">Undergraduate Student and CTF Player.</h3>   
    
-   I find excitement through analysing low level systems and telling stories through data. At the mommeny I'm synchronously learning by theory and practical. come and checkout my [GitBook Website](https://hyggehalcyon.gitbook.io/page/whoami/about-me), There I document my CTF and learning journey.
+   I'm just a regular internet user, I'm currently learning pentesting (mobile and desktop) and also the application of machine learning within the field of cyber security. I mostly self-taught with the resources I found on the internet. come and checkout my [GitBook](https://hyggehalcyon.gitbook.io/page/whoami/about-me), There I document my CTF and learning journey.
    
-* 🧑‍🎓 I’m currently learning **Cyber Security and Data Science**
+* 🧑‍🎓 I’m currently learning **Cyber Security and Machine Learning**
 * 🚩 Actively playing CTF as **Halcyon** specilize in **Pwn and Reverse Engineering**
 
 <h3 align="center">Languages and Tools:</h3>
