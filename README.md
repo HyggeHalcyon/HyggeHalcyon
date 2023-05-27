@@ -4,7 +4,7 @@
    I'm just a regular internet user, currently learning pentesting (mobile and desktop) and also the application of machine learning within the field of cyber security. I mostly self-taught with the resources I found on the internet. come and checkout my [GitBook](https://hyggehalcyon.gitbook.io/page/whoami/about-me), There I document my CTF and learning journey.
    
 * 🧑‍🎓 I’m currently learning **Cyber Security and Machine Learning**
-* 🚩 Actively playing CTF as **Halcyon** specilize in **Pwn and Reverse Engineering**
+* 🚩 Actively playing CTF focusing on **Pwn, Reverse Engineering and Web Exploitation**
 * 🦜 my aliases includes Balakatumtum, HyggeHalcyon and BuShiYue
 
 <h3 align="center">Languages and Tools:</h3>
