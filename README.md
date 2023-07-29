@@ -5,7 +5,7 @@
    
 * 🧑‍🎓 I’m currently learning ***Cyber Security and Machine Learning***
 * 🚩 Actively playing CTF focusing on ***Pwn, Reverse Engineering and Web Exploitation***
-* 🦜 my aliases includes ***Balakatumtum***, ***HyggeHalcyon*** and ***BuShiYue***
+* 🦜 my aliases are ***HyggeHalcyon*** and ***BuShiYue***
 
 Outside of Tech, I'm also fond of learning Anthropology, History and Linguistics. Primarly those in realm of Europe, East Asia and the Middle East dating back as far to the Celtic, Old Norse and Mesopotamian era.
 
