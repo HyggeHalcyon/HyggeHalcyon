@@ -16,4 +16,4 @@ Outside of Tech, I'm also fond of learning Anthropology, History and Linguistics
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hyggehalcyon&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </a>       
       
-Feel free to reach me at: [![Discord Badge](https://img.shields.io/badge/-Halcyon-5663F7?style=flat-roundedrectangle&logo=Discord&logoColor=white)](https://discord.com/#Halcyon#0924)
+Feel free to reach me at: [![Discord Badge](https://img.shields.io/badge/-Halcyon-5663F7?style=flat-roundedrectangle&logo=Discord&logoColor=white)](https://discord.com/#hyggehalcyon)
