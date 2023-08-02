@@ -1,7 +1,7 @@
 <h1 align="center">Hej, Raz Heter Jag!</h1>
 <h3 align="center">Undergraduate Student and CTF Player.</h3>   
    
-   I'm just a regular internet user, at the moment I'm focusing my study around software security and reverse  engineering. I'm also interested in the application of machine learning within the field of cyber security. I mostly self-taught with the resources I found on the internet and the community of likeminded people. come and checkout my [GitBook](https://hyggehalcyon.gitbook.io/page/whoami/about-me), There I document my CTF and learning journey.    
+   I'm just a regular internet user, at the moment I'm focusing my study around software security and detection engineering. I'm also interested in the application of machine learning within the field of cyber security. I mostly self-taught with the resources I found on the internet and the community of likeminded people. come and checkout my [GitBook](https://hyggehalcyon.gitbook.io/page/whoami/about-me), There I document my CTF and learning journey.    
    
 * 🧑‍🎓 I’m currently learning ***Cyber Security and Machine Learning***
 * 🚩 Actively playing CTF focusing on ***Pwn, Reverse Engineering and Web Exploitation***
