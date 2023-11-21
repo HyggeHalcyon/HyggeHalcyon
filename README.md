@@ -3,8 +3,9 @@
    *Hej, Raz Heter Jag!*
 </h1>
 
-<div align="center">
-   Weeb on the internet. hooked on level computer systems, currently focusing study in *software security* and *detection engineering*. Mostly self-taught with the resources found on the internet and the community of likeminded people. 
+<div align="center" markdown="1">
+   
+ Weeb on the internet. hooked on low level computer systems, currently focusing study in *software security* and *detection engineering*. Mostly self-taught with the resources found on the internet and the community of likeminded people. 
 </div>
 
 <br>
