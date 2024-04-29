@@ -20,10 +20,6 @@
 - Game *Cheating*, *Modding*, and *Anti-Cheat*  
 - Offensive security & Red teaming
 - Malware Development
-- Detection Engineering  
-
-<a>
-   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hyggehalcyon&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</a>     
+- Binary Fuzzing  
       
 Feel free to reach me at: ![Discord Badge](https://img.shields.io/badge/-__hygge-5663F7?style=flat-roundedrectangle&logo=Discord&logoColor=white)
