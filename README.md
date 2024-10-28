@@ -1,25 +1,16 @@
 <h1 align="center" markdown="1">
  
-   *Hej, Raz Heter Jag!*
+   *Hej, Raz Heter Jag!*  
+   *(a.k.a HyggeHalcyon, Argonaut)*
 </h1>
 
-<div align="center" markdown="1">
-   
- Weeb on the internet. hooked on low level computer systems, currently focusing study in *software security* and *detection engineering*. Mostly self-taught with the resources found on the internet and the community of likeminded people. 
-</div>
+#### Interests
+- System Security
+- Binary Analysis
+- Computer Architecture
+- Vulnerability Research & Exploitation
 
-<br>
-
-<div align="center">
-   also fond of learning Anthropology, History and Linguistics. Primarly those in realm of Europe, East Asia and the Middle East dating back as far to the Celtic, Old Norse, Medieval and Mesopotamian era.
-</div>
-
-<br>
-
-### Research Interest
-- Game *Cheating*, *Modding*, and *Anti-Cheat*  
-- Offensive security & Red teaming
-- Malware Development
-- Binary Fuzzing  
-      
-Feel free to reach me at: ![Discord Badge](https://img.shields.io/badge/-__hygge-5663F7?style=flat-roundedrectangle&logo=Discord&logoColor=white)
+#### Affiliation
+- B.S. @ **Sepuluh Nopember Institute of Technology** (2022 ~ 2026), Information Systems
+- Member of **Project Sekai** (2024.07. ~)
+- Lead of **Heroes Cyber Security** uni team (2024.08. ~)
